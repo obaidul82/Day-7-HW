@@ -1,0 +1,126 @@
+header{
+	background-color: #3E5B99;
+	overflow: hidden;
+}
+
+.logo {
+	width: 20%;
+	float: left;
+}
+.logo img{
+	padding: 5px;
+	padding-top: 16px;
+}
+.nav {
+	width: 60%;
+	float: right;
+	overflow: hidden;
+	padding: 10px;
+	padding-bottom: 0px;
+}
+
+.nav_1 {
+	width: 30%;
+	float: left;
+	margin-right: 0px;
+	overflow: hidden;
+	padding-left: 120px;
+	color: white;
+}
+label{
+	float: right;
+}
+
+.nav_2 {
+	width: 30%;
+	float: left;
+	margin-right: 0px;
+	padding-right: 5px;
+	color: white;
+}
+.nav_2 p{
+	padding-left: 9px;
+	color: #83B4CC;
+	margin-bottom: 0px;
+}
+.button{
+	width: 15%;
+	float: right;
+	padding-top: 10px;
+}
+button img{
+	width: 100%;
+	float: right;
+}
+.banner {
+	background-color: #E9EBF3;
+	overflow: hidden;
+}
+
+.photo {
+	width: 50%;
+	float: left;
+}
+
+.banner_content {
+	font-size: 20px;
+	color: #0E385F;
+	font-size: 22px;
+	padding-top: 26px;
+    padding-bottom: 16px;
+    padding-left: 15px;
+}
+.banner_content p{
+
+}
+.banner_pic img{
+}
+.details {
+	width: 40%;
+	float: right;
+	padding-right: 5px;
+	padding-bottom: 30px;
+}
+.details p{
+	font-size: 13px;
+	color: solid grey;
+}
+.details h1{
+	margin-bottom: 0px;
+    font-size: 41px;
+}
+.details h4{
+	margin: 0 auto;
+    font-size: 22px;
+}
+.birthday {
+}
+.birthday h1{
+	font-size: 17px;
+
+}
+
+.date {
+	width: 40%;
+	float: left;
+}
+
+.data {
+	width: 50%;
+	float: left;
+}
+.data p{
+	margin: 0 auto;
+    padding: 0px;
+    color: #3677BC;
+}
+.birthday_text{
+	color: #365899;
+}
+.para{
+	color: #365899;
+}
+button {
+	padding: 0px;
+	width: 40%;
+}
