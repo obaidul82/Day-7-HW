@@ -44,9 +44,11 @@ label{
 	margin-bottom: 0px;
 }
 .button{
-	width: 15%;
-	float: right;
-	padding-top: 10px;
+	width: 18%;
+    float: right;
+    padding-top: 14px;
+    margin-right: 2px;
+    border: none;
 }
 button img{
 	width: 100%;
@@ -123,4 +125,5 @@ button img{
 button {
 	padding: 0px;
 	width: 40%;
+	border: none;
 }
